@@ -1,0 +1,36 @@
+0000000000000000000000000000000000000000 ebfa634247fcf66222e917c7780a7bb1a7e87a3c kalyanPK63 <pavanchinna799@gmail.com> 1643898037 +0530	commit (initial): Added readme.txt
+ebfa634247fcf66222e917c7780a7bb1a7e87a3c ebfa634247fcf66222e917c7780a7bb1a7e87a3c kalyanPK63 <pavanchinna799@gmail.com> 1643898120 +0530	checkout: moving from master to html-assignments
+ebfa634247fcf66222e917c7780a7bb1a7e87a3c 1bba7f71b0d4f304103c62f6e48ece1356c69c37 kalyanPK63 <pavanchinna799@gmail.com> 1643898221 +0530	commit: Added html assignments
+1bba7f71b0d4f304103c62f6e48ece1356c69c37 eab0a95c2a476c30a24a6c69b51d68fb17a91b89 kalyanPK63 <pavanchinna799@gmail.com> 1643898374 +0530	commit: modified A1 file-changed heading
+eab0a95c2a476c30a24a6c69b51d68fb17a91b89 ebfa634247fcf66222e917c7780a7bb1a7e87a3c kalyanPK63 <pavanchinna799@gmail.com> 1643898404 +0530	checkout: moving from html-assignments to master
+ebfa634247fcf66222e917c7780a7bb1a7e87a3c be8cc8ae2e6744aa2dfcfcf19281593021be7eda kalyanPK63 <pavanchinna799@gmail.com> 1643898467 +0530	commit: modified readme.txt
+be8cc8ae2e6744aa2dfcfcf19281593021be7eda eab0a95c2a476c30a24a6c69b51d68fb17a91b89 kalyanPK63 <pavanchinna799@gmail.com> 1643898484 +0530	checkout: moving from master to html-assignments
+eab0a95c2a476c30a24a6c69b51d68fb17a91b89 4995a01ac8bef13cdd5c9ac18304edf05253d42b kalyanPK63 <pavanchinna799@gmail.com> 1643898610 +0530	commit: edited the link statement in html link
+4995a01ac8bef13cdd5c9ac18304edf05253d42b be8cc8ae2e6744aa2dfcfcf19281593021be7eda kalyanPK63 <pavanchinna799@gmail.com> 1643898632 +0530	checkout: moving from html-assignments to master
+be8cc8ae2e6744aa2dfcfcf19281593021be7eda 8db8df690c07b2dc40df9380c3b4c17b632d47eb kalyanPK63 <pavanchinna799@gmail.com> 1643898666 +0530	merge html-assignments: Merge made by the 'ort' strategy.
+8db8df690c07b2dc40df9380c3b4c17b632d47eb 8db8df690c07b2dc40df9380c3b4c17b632d47eb kalyanPK63 <pavanchinna799@gmail.com> 1643903356 +0530	checkout: moving from master to css-assignment
+8db8df690c07b2dc40df9380c3b4c17b632d47eb 14d3abb7b863396aa44516d89eabfee73cceae25 kalyanPK63 <pavanchinna799@gmail.com> 1643903414 +0530	commit: Added css file
+14d3abb7b863396aa44516d89eabfee73cceae25 6075b971ccac3873be9e411be32e1c6dd5e29ace kalyanPK63 <pavanchinna799@gmail.com> 1643903605 +0530	commit: modified readme file-added belongings of css
+6075b971ccac3873be9e411be32e1c6dd5e29ace 8db8df690c07b2dc40df9380c3b4c17b632d47eb kalyanPK63 <pavanchinna799@gmail.com> 1643903627 +0530	checkout: moving from css-assignment to master
+8db8df690c07b2dc40df9380c3b4c17b632d47eb 73f687c0798e5501866ba6fe3486aacfb83d0793 kalyanPK63 <pavanchinna799@gmail.com> 1643903750 +0530	commit: modified line 3 in readme
+73f687c0798e5501866ba6fe3486aacfb83d0793 6075b971ccac3873be9e411be32e1c6dd5e29ace kalyanPK63 <pavanchinna799@gmail.com> 1643903774 +0530	checkout: moving from master to css-assignment
+6075b971ccac3873be9e411be32e1c6dd5e29ace 28f586bfea2bc5677b832a01d5abfde981a27ac1 kalyanPK63 <pavanchinna799@gmail.com> 1643903910 +0530	commit: modified css file
+28f586bfea2bc5677b832a01d5abfde981a27ac1 73f687c0798e5501866ba6fe3486aacfb83d0793 kalyanPK63 <pavanchinna799@gmail.com> 1643903930 +0530	checkout: moving from css-assignment to master
+73f687c0798e5501866ba6fe3486aacfb83d0793 427bf354e18ec654c73dae2398ee643e20929ef1 kalyanPK63 <pavanchinna799@gmail.com> 1643904001 +0530	merge css-assignment: Merge made by the 'ort' strategy.
+427bf354e18ec654c73dae2398ee643e20929ef1 427bf354e18ec654c73dae2398ee643e20929ef1 kalyanPK63 <pavanchinna799@gmail.com> 1643904442 +0530	checkout: moving from master to js-assignment
+427bf354e18ec654c73dae2398ee643e20929ef1 95d7378b75319115595e19db4423c8321d1d7a95 kalyanPK63 <pavanchinna799@gmail.com> 1643904507 +0530	commit: added java file
+95d7378b75319115595e19db4423c8321d1d7a95 e2b6bb4746a695b8db859eeb8e06a97cc6075b99 kalyanPK63 <pavanchinna799@gmail.com> 1643904583 +0530	commit: modified readme file for java
+e2b6bb4746a695b8db859eeb8e06a97cc6075b99 427bf354e18ec654c73dae2398ee643e20929ef1 kalyanPK63 <pavanchinna799@gmail.com> 1643904597 +0530	checkout: moving from js-assignment to master
+427bf354e18ec654c73dae2398ee643e20929ef1 25c8994fe5bece3efae07b4af08b31380a121552 kalyanPK63 <pavanchinna799@gmail.com> 1643904686 +0530	commit: modified 1st line-added java text in readme file
+25c8994fe5bece3efae07b4af08b31380a121552 e2b6bb4746a695b8db859eeb8e06a97cc6075b99 kalyanPK63 <pavanchinna799@gmail.com> 1643904816 +0530	checkout: moving from master to js-assignment
+e2b6bb4746a695b8db859eeb8e06a97cc6075b99 ed23c50d641d7e51e5dd7fecfd73a044d2d8bc9e kalyanPK63 <pavanchinna799@gmail.com> 1643904900 +0530	commit: modified a line im java code
+ed23c50d641d7e51e5dd7fecfd73a044d2d8bc9e 25c8994fe5bece3efae07b4af08b31380a121552 kalyanPK63 <pavanchinna799@gmail.com> 1643904915 +0530	checkout: moving from js-assignment to master
+25c8994fe5bece3efae07b4af08b31380a121552 cc08e6ad371d80e6e1a405baf96e368e4e6d0fb7 kalyanPK63 <pavanchinna799@gmail.com> 1643905093 +0530	commit (merge): solved conflict in readme file
+
+
+Section 1 :- https://github.com/kalyanPK63/freshersbatch-feb21
+
+Section 2 :- https://github.com/kalyanPK63/SampleProj
+
+GitHub ALL Assignments : https://github.com/kalyanPK63/Assignments
+
