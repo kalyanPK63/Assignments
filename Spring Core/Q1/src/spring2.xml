@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+    http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="Customer" class="spring_core.Customer">
+        <property name="customerId" value="12345"/>
+        <property name="customerName" value="Pavan"/>
+        <property name="customerContact" value="6303727856"/>
+        <property name="customerAddress" ref="Address"/>
+    </bean>
+
+    <bean id="Address" class="spring_core.Address">
+        <property name="street" value="Road No.9"/>
+        <property name="city" value="Hyderabad"/>
+        <property name="state" value="Telangana"/>
+        <property name="zip" value="500033"/>
+        <property name="country" value="India"/>
+    </bean>
+
+    <bean id="C_Customer" class="spring_core.Customer">
+        <constructor-arg value="12345"/>
+        <constructor-arg value="Pavan"/>
+        <constructor-arg value="6303727856"/>
+        <constructor-arg ref="C_Address"/>
+    </bean>
+
+    <bean id="C_Address" class="spring_core.Address">
+        <constructor-arg value="Road No.9"/>
+        <constructor-arg value="Hyderabad"/>
+        <constructor-arg value="Telangana"/>
+        <constructor-arg value="500033"/>
+        <constructor-arg value="India"/>
+    </bean>
+
+</beans>

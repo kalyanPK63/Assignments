@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+    http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="triangle" class="DemoSpring.Triangle">
+        <property name="points">
+            <list>
+                <ref bean="zeroPoint"/>
+                <ref bean="Point2"/>
+                <ref bean="Point3"/>
+            </list>
+        </property>
+    </bean>
+    <bean id="zeroPoint" class="DemoSpring.Point">
+        <property name="X" value="0"/>
+        <property name="Y" value="0"/>
+    </bean>
+    <bean id="Point2" class="DemoSpring.Point">
+        <property name="X" value="-20"/>
+        <property name="Y" value="0"/>
+    </bean>
+    <bean id="Point3" class="DemoSpring.Point">
+        <property name="X" value="20"/>
+        <property name="Y" value="0"/>
+    </bean>
+</beans>
