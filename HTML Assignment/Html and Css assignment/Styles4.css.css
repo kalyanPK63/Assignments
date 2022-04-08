@@ -1,0 +1,156 @@
+body, nav, section, li, h1, h2, h3, p{
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+sup{
+    font-size: medium;
+}
+.notify sup{
+    font-size: x-small;
+}
+nav ul{
+    background-color: white;
+    position: fixed;
+    width: 85%;
+    top: 0%;
+    right: 0px;
+    z-index: 1;
+    margin: 0px;
+    display: block;
+    padding: 1.15% 1.17%;
+    white-space: nowrap;
+}
+nav li{
+    text-align: center;
+    left: 0px;
+    width: 12%;
+    display: inline-block;
+    font-size: 18px;
+}
+nav li a{
+    text-decoration: none;
+    color: black;
+}
+section.logo1{
+    background-color: white;
+    position: fixed;
+    width: 12%;
+    padding: 5px;
+    z-index: 1;
+    top: 0%;
+    left: 0%;
+    display: inline-block;
+}
+.banner{
+    background-image: url(/img/oneplus-10-pro\ Banner1.jpg);
+    width: calc(100%);
+    height: 0;
+    top: 5%;
+    padding-bottom: 40.6%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.banner .welcome{
+    position: absolute;
+    right: 5%;
+    top: 8%;
+    color: rgba(255, 255, 255, 0.829);
+    padding: 10px;
+    font-size: x-large;
+}
+.welcome h2{
+    font-size: 30px;    
+}
+.notify{
+    background-color: rgba(18, 17, 17, 0.938);
+    color: rgba(255, 255, 255, 0.849);
+    padding: 20px 10px;
+    text-align: center;
+}
+div h3{
+    padding: 20px;
+}
+.notifyme{
+    max-width: 100%;
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.705);
+    border: 1px solid rgba(255, 255, 255, 0.705);
+    padding: 10px 20px;
+}
+.notifyme:hover{
+    background-color:#CDC8A7;
+    color: #5A4E36;
+}
+main{
+    background-color: rgba(0,0,0,0.9);
+    max-width: 100%;
+    margin: 0px auto;
+    box-sizing: border-box;
+
+}
+.cards{
+    color: white;
+    white-space: nowrap;
+    padding: 0;
+}
+.cards li{
+    display: inline-block;
+    bottom: 0px;
+    margin: 0px 5px;
+
+}
+.card-1{
+    display: inline-block;
+    height: 0;
+    padding-bottom: 40.6%;
+    border-radius: 12px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(/img/card1.png);
+    width: calc((100% - 3 * 1.0417vw) / 4);
+    position: relative;
+}
+.card-2{
+    height: 0;
+    padding-bottom: 40.6%;
+    border-radius: 12px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(/img/card2.png);
+    width: calc((100% - 3 * 1.0417vw) / 4);
+    position: relative;
+}
+.card-3{
+    height: 0;
+    padding-bottom: 40.6%;
+    border-radius: 12px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(/img/card3.png);
+    width: calc((100% - 3 * 1.0417vw) / 4);
+    position: relative;
+}
+.card-4{
+    height: 0;
+    padding-bottom: 40.6%;
+    border-radius: 12px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(/img/card4.png);
+    width: calc((100% - 3 * 1.0417vw) / 4);
+    position: relative;
+}
+.cards p,span{
+    position: relative;
+    display: flex;
+    top: 300px;
+    width: 20%;
+}

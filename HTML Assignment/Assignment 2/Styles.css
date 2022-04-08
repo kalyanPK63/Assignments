@@ -1,0 +1,12 @@
+h1,div,p{
+    margin: 0px;
+}
+h1{
+    background-color: rgb(100, 145, 204);
+}
+div{
+    background-color: lightgrey;
+}
+p{
+    background-color: lightskyblue;
+}

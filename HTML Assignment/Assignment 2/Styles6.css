@@ -1,0 +1,7 @@
+table,tr,td{
+    border: 1px solid green;
+}
+tr.heading{
+    font-weight: bold;
+    background-color: green;
+}
